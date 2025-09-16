@@ -19,7 +19,7 @@ function Footer({ darkMode }) {
               darkMode ? "text-white" : "text-gray-400"
             }`}
           >
-            Full-Stack Developer (MERN)
+            Software Developer (MERN)
           </p>
         </div>
 
