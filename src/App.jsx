@@ -44,11 +44,11 @@ function App() {
           <button
             onClick={scrollToTop}
             className="fixed bottom-6 right-6 p-3 rounded-full 
-             backdrop-blur-md bg-white/20 dark:bg-gray-700/30
+             backdrop-blur-md bg-white/80 dark:bg-gray-700/30
              border border-white/40 dark:border-gray-600/40 
-             text-gray-800 dark:text-gray-100 
+             text-gray-500 dark:text-gray-100 
              shadow-lg hover:shadow-xl 
-             hover:scale-110 hover:bg-white/30 dark:hover:bg-gray-700/50
+             hover:scale-110 hover:bg-white/80 dark:hover:bg-gray-700/50
              transition-all duration-300 ease-in-out 
              focus:outline-none cursor-pointer"
           >

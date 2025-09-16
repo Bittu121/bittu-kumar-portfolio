@@ -6,7 +6,7 @@ const Projects = ({ darkMode }) => {
     {
       id: 1,
       image: profilePicture,
-      title: "Slate",
+      title: "Travel Desk",
       website: "https://your-live-site.com",
       demo: "https://your-demo-link.com",
       github: "https://github.com/your-repo",
@@ -14,7 +14,7 @@ const Projects = ({ darkMode }) => {
     {
       id: 2,
       image: profilePicture,
-      title: "Admin Dashboard",
+      title: "Service Management",
       website: "https://dashboard-live.com",
       demo: "https://dashboard-demo.com",
       github: "https://github.com/dashboard-repo",
@@ -22,7 +22,7 @@ const Projects = ({ darkMode }) => {
     {
       id: 3,
       image: profilePicture,
-      title: "Admin Dashboard",
+      title: "QEats",
       website: "https://dashboard-live.com",
       demo: "https://dashboard-demo.com",
       github: "https://github.com/dashboard-repo",

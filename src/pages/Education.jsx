@@ -9,7 +9,7 @@ function Education({ darkMode }) {
       institution: "Aryabhatta Knowledge University, Patna",
       year: "2017 - 2021",
       details:
-        "Specialized in full-stack development, data structures, and algorithms. Led multiple MERN projects, research initiatives, and hackathons.",
+        "MERN stack full-stack developer with strong DSA skills, hands-on project experience, and open-source contributions. ✅",
     },
     {
       id: 2,
@@ -17,7 +17,7 @@ function Education({ darkMode }) {
       institution: "T.P Varma College Narkatiaganj",
       year: "2012 - 2015",
       details:
-        "Focused on PCM with Computer Science. Developed early web projects and built strong problem-solving foundations.",
+        "Completed 12th in PCM with a strong foundation in problem-solving",
     },
   ];
 
@@ -45,7 +45,7 @@ function Education({ darkMode }) {
               <span
                 className="absolute left-0 flex items-center justify-center w-12 h-12 rounded-full
                            bg-gradient-to-r from-blue-500 to-purple-600 text-white shadow-lg 
-                           ring-4 ring-white dark:ring-gray-900"
+                           ring-4 ring-white"
               >
                 <FaGraduationCap size={20} />
               </span>

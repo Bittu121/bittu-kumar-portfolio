@@ -71,7 +71,7 @@ const About = ({ darkMode }) => {
             to="https://www.linkedin.com/in/bittu-kumar143/"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center w-6 h-6 rounded-full backdrop-blur-md bg-white/30 dark:bg-gray-700/30 text-blue-600 dark:text-blue-400 border border-gray-300 dark:border-gray-600 shadow-sm hover:scale-105 hover:shadow-md transition-all duration-300"
+            className="flex items-center justify-center w-6 h-6 rounded-full dark:bg-gray-700/10 text-blue-600 dark:text-blue-400 border border-gray-300 dark:border-gray-600 shadow-sm hover:scale-105 hover:shadow-md transition-all duration-300"
           >
             <FaLinkedin size={12} />
           </NavLink>
@@ -82,7 +82,7 @@ const About = ({ darkMode }) => {
             to="https://github.com/Bittu121"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center w-6 h-6 rounded-full backdrop-blur-md bg-white/30 dark:bg-gray-700/30 text-gray-900 dark:text-gray-100 border border-gray-300 dark:border-gray-600 shadow-sm hover:scale-105 hover:shadow-md transition-all duration-300"
+            className="flex items-center justify-center w-6 h-6 rounded-full dark:bg-gray-700/30 text-gray-900 dark:text-gray-100 border border-gray-300 dark:border-gray-600 shadow-sm hover:scale-105 hover:shadow-md transition-all duration-300"
           >
             <FaGithub size={12} />
           </NavLink>

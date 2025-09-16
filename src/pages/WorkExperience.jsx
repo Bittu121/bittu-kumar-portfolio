@@ -47,7 +47,7 @@ function WorkExperience({ darkMode }) {
         darkMode ? "bg-gray-900 text-gray-100" : "bg-white text-gray-900"
       }`}
     >
-      <h2 className="text-2xl md:text-3xl font-bold text-center mb-12">
+      <h2 className="text-2xl md:text-3xl font-bold text-center mt-10 mb-12">
         Work experience
       </h2>
 
